@@ -769,6 +769,7 @@ const a0_0x5ac32b = {
         a_birdMonster = 122;
 
         function _0x20ad9d(_0x7dda42) {
+            debugger;
             var _0x3cba4d = {};
             switch (_0x7dda42) {
                 case _0x346a56:
